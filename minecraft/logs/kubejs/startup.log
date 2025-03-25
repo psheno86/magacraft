@@ -1,18 +1,18 @@
-[21:10:03] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
-[21:10:03] [INIT] Loaded plugins:
-[21:10:03] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
-[21:10:03] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
-[21:10:03] [INIT] - dev.latvian.mods.kubejs.integration.forge.gamestages.GameStagesIntegration
-[21:10:03] [INIT] - io.github.mortuusars.exposure.integration.kubejs.ExposureJSPlugin
-[21:10:03] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbquests.kubejs.KubeJSIntegration
-[21:10:03] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbteams.kubejs.FTBTeamsKubeJSPlugin
-[21:10:03] [INIT] - com.cpearl.gamephase.compat.kjs.GamePhasePlugin
-[21:10:03] [INIT] - org.mesdag.advjs.AdvJSPlugin
-[21:10:03] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
-[21:10:03] [INIT] - com.almostreliable.morejs.Plugin
-[21:10:03] [INIT] - com.almostreliable.ponderjs.KubePlugin
-[21:10:05] [INFO] Loaded script startup_scripts:advjs_startup.js in 0.171 s
-[21:10:05] [INFO] example.js#5: Hello, World! (Loaded startup scripts)
-[21:10:05] [INFO] Loaded script startup_scripts:example.js in 0.003 s
-[21:10:05] [INFO] Loaded 2/2 KubeJS startup scripts in 1.474 s with 0 errors and 0 warnings
-[21:10:05] [INFO] AdvJS/trigger: Registered trigger advjs:get_adv
+[22:22:20] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
+[22:22:20] [INIT] Loaded plugins:
+[22:22:20] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[22:22:20] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
+[22:22:20] [INIT] - dev.latvian.mods.kubejs.integration.forge.gamestages.GameStagesIntegration
+[22:22:20] [INIT] - io.github.mortuusars.exposure.integration.kubejs.ExposureJSPlugin
+[22:22:20] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbquests.kubejs.KubeJSIntegration
+[22:22:20] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbteams.kubejs.FTBTeamsKubeJSPlugin
+[22:22:20] [INIT] - com.cpearl.gamephase.compat.kjs.GamePhasePlugin
+[22:22:20] [INIT] - org.mesdag.advjs.AdvJSPlugin
+[22:22:20] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
+[22:22:20] [INIT] - com.almostreliable.morejs.Plugin
+[22:22:20] [INIT] - com.almostreliable.ponderjs.KubePlugin
+[22:22:21] [INFO] Loaded script startup_scripts:advjs_startup.js in 0.133 s
+[22:22:21] [INFO] example.js#5: Hello, World! (Loaded startup scripts)
+[22:22:21] [INFO] Loaded script startup_scripts:example.js in 0.003 s
+[22:22:21] [INFO] Loaded 2/2 KubeJS startup scripts in 1.231 s with 0 errors and 0 warnings
+[22:22:21] [INFO] AdvJS/trigger: Registered trigger advjs:get_adv

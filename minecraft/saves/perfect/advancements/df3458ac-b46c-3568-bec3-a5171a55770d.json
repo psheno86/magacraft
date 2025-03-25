@@ -119,9 +119,9 @@
     },
     "done": false
   },
-  "mutantmonsters:root": {
+  "alexsmobs:alexsmobs/tarantula_hawk": {
     "criteria": {
-      "killed_by_something": "2025-03-25 21:31:06 +0500"
+      "killed_by": "2025-03-25 21:30:58 +0500"
     },
     "done": true
   },
@@ -137,21 +137,27 @@
     },
     "done": true
   },
-  "spelunkery:recipes/stick": {
+  "mutantmonsters:root": {
     "criteria": {
-      "has_item": "2025-03-25 21:31:57 +0500"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/tarantula_hawk": {
-    "criteria": {
-      "killed_by": "2025-03-25 21:30:58 +0500"
+      "killed_by_something": "2025-03-25 21:31:06 +0500"
     },
     "done": true
   },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_by_something": "2025-03-25 21:31:06 +0500"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/stick": {
+    "criteria": {
+      "has_item": "2025-03-25 21:31:57 +0500"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:the_wind_darkening": {
+    "criteria": {
+      "the_wind_darkening_0": "2025-03-25 21:53:10 +0500"
     },
     "done": true
   },
@@ -173,9 +179,135 @@
     },
     "done": true
   },
-  "born_in_chaos_v1:the_wind_darkening": {
+  "tetra:spelunking/find_scroll": {
     "criteria": {
-      "the_wind_darkening_0": "2025-03-25 21:53:10 +0500"
+      "find": "2025-03-25 22:25:29 +0500"
+    },
+    "done": true
+  },
+  "create:brass": {
+    "criteria": {
+      "0": "2025-03-25 22:29:21 +0500"
+    },
+    "done": true
+  },
+  "tetra:spelunking/find_scroll_expertise": {
+    "criteria": {
+      "gem_expertise": "2025-03-25 22:25:29 +0500"
+    },
+    "done": false
+  },
+  "spelunkery:recipes/amethyst": {
+    "criteria": {
+      "has_item": "2025-03-25 22:25:12 +0500"
+    },
+    "done": true
+  },
+  "tetra:upgrades/sword_upgrade": {
+    "criteria": {
+      "module": "2025-03-25 22:27:38 +0500"
+    },
+    "done": true
+  },
+  "hexcasting:root": {
+    "criteria": {
+      "has_charged_amethyst": "2025-03-25 22:25:12 +0500"
+    },
+    "done": true
+  },
+  "tetra:recipes/string": {
+    "criteria": {
+      "got_string": "2025-03-25 22:26:53 +0500"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/netherite_ingot": {
+    "criteria": {
+      "has_item": "2025-03-25 22:29:34 +0500"
+    },
+    "done": true
+  },
+  "tetra:upgrades/tool_upgrade": {
+    "criteria": {
+      "pickaxe": "2025-03-25 22:32:20 +0500"
+    },
+    "done": true
+  },
+  "tetra:upgrades/sword_integrity": {
+    "criteria": {
+      "module": "2025-03-25 22:29:36 +0500"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/copper_ingot": {
+    "criteria": {
+      "has_item": "2025-03-25 22:26:51 +0500"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/rattlesnake": {
+    "criteria": {
+      "killed_by": "2025-03-25 22:30:46 +0500"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:recipes/combat/enderium_armor_smithing": {
+    "criteria": {
+      "has_enderium_ingot": "2025-03-25 22:29:13 +0500"
+    },
+    "done": true
+  },
+  "create:copper": {
+    "criteria": {
+      "0": "2025-03-25 22:26:51 +0500"
+    },
+    "done": true
+  },
+  "immersive_aircraft:misc/aircraftery": {
+    "criteria": {
+      "has_item": "2025-03-25 22:26:43 +0500"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-03-25 22:26:43 +0500"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:enderium_ingot": {
+    "criteria": {
+      "picked_up_ingot": "2025-03-25 22:29:13 +0500"
+    },
+    "done": true
+  },
+  "tetra:upgrades/root": {
+    "criteria": {
+      "hammer": "2025-03-25 22:26:20 +0500"
+    },
+    "done": true
+  },
+  "tetra:upgrades/repairs": {
+    "criteria": {
+      "hammer": "2025-03-25 22:26:20 +0500"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:recipes/combat/enderium_tools_smithing": {
+    "criteria": {
+      "has_enderium_ingot": "2025-03-25 22:29:13 +0500"
+    },
+    "done": true
+  },
+  "tetra:upgrades/double_headed": {
+    "criteria": {
+      "hammer": "2025-03-25 22:26:20 +0500"
+    },
+    "done": true
+  },
+  "tetra:story/more_upgrades": {
+    "criteria": {
+      "hammer": "2025-03-25 22:26:20 +0500"
     },
     "done": true
   },
