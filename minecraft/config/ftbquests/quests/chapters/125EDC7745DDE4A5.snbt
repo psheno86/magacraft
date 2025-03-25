@@ -1,0 +1,21 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "125EDC7745DDE4A5"
+	group: ""
+	icon: "minecraft:sunflower"
+	id: "125EDC7745DDE4A5"
+	order_index: 0
+	quest_links: [ ]
+	quests: [{
+		id: "501EB13C5B225294"
+		tasks: [{
+			id: "75A20C77A63B690C"
+			title: "Тест"
+			type: "checkmark"
+		}]
+		x: 0.0d
+		y: 0.0d
+	}]
+	title: "Интродакшн"
+}

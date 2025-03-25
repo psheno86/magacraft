@@ -1,0 +1,17 @@
+filename = 'txnilib-forge-1.0.23-1.20.1.jar'
+name = 'TxniLib'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'TxniLib Forge 1.0.23 for 1.20.1'
+
+[download]
+hash = '24c7248313839cee8e15bb4571ed0274532acf03'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6303219
+project-id = 1104882

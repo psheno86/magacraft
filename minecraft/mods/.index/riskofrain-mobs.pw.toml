@@ -1,0 +1,17 @@
+filename = 'riskofrain_mobs-1.2.1.jar'
+name = 'Risk of Rain Mobs'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'riskofrain_mobs-1.2.1'
+
+[download]
+hash = '3225f6eed29a8161ec48c0c86c2933ccb845c935'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5663700
+project-id = 406824

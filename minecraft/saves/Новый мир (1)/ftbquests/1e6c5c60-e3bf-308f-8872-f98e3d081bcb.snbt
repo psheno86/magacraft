@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "1e6c5c60e3bf308f8872f98e3d081bcb"
+	name: "SHANKS#1e6c5c60"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

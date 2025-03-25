@@ -1,0 +1,17 @@
+{
+	id: "df3458ac-b46c-3568-bec3-a5171a55770d"
+	type: "player"
+	player_name: "mgstx"
+	ranks: {
+		df3458ac-b46c-3568-bec3-a5171a55770d: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "mgstx"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59D4FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

@@ -1,0 +1,39 @@
+{
+  "bookGuiScale": 0,
+  "clickedVisualize": false,
+  "bookData": {
+    "simplyswords:runic_grimoire": {
+      "viewedEntries": [
+        "simplyswords:rune_etching/entry_rp_active_defence",
+        "simplyswords:weapon_variants/entry_chakram",
+        "simplyswords:weapon_variants/entry_greataxe"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    },
+    "parcool:parcool_guide": {
+      "viewedEntries": [
+        "parcool:about/about_parcool",
+        "parcool:about/about_parkour",
+        "parcool:about/stamina",
+        "parcool:about/f_a_q",
+        "parcool:about/credit",
+        "parcool:actions/wall_run",
+        "parcool:actions/fast_run",
+        "parcool:actions/breakfall",
+        "parcool:others/energy_drink",
+        "parcool:others/passive_actions",
+        "parcool:actions/charge_jump"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    },
+    "hexcasting:thehexbook": {
+      "viewedEntries": [
+        "hexcasting:basics/media"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    }
+  }
+}

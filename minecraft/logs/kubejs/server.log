@@ -1,0 +1,51 @@
+[21:26:51] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
+[21:26:51] [INIT] Loaded plugins:
+[21:26:51] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[21:26:51] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
+[21:26:51] [INIT] - dev.latvian.mods.kubejs.integration.forge.gamestages.GameStagesIntegration
+[21:26:51] [INIT] - io.github.mortuusars.exposure.integration.kubejs.ExposureJSPlugin
+[21:26:51] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbquests.kubejs.KubeJSIntegration
+[21:26:51] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbteams.kubejs.FTBTeamsKubeJSPlugin
+[21:26:51] [INIT] - com.cpearl.gamephase.compat.kjs.GamePhasePlugin
+[21:26:51] [INIT] - org.mesdag.advjs.AdvJSPlugin
+[21:26:51] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
+[21:26:51] [INIT] - com.almostreliable.morejs.Plugin
+[21:26:51] [INIT] - com.almostreliable.ponderjs.KubePlugin
+[21:26:51] [INFO] Loaded script server_scripts:advjs_server.js in 0.002 s
+[21:26:51] [INFO] example.js#5: Hello, World! (Loaded server scripts)
+[21:26:51] [INFO] Loaded script server_scripts:example.js in 0.0 s
+[21:26:51] [INFO] Loaded 2/2 KubeJS server scripts in 0.006 s with 0 errors and 0 warnings
+[21:26:51] [INFO] Scripts loaded
+[21:26:56] [INFO] AdvJS: Removed 1 advancements
+[21:26:56] [INFO] AdvJS: Modified 1 advancements
+[21:26:56] [INFO] AdvJS: Added 3 advancements
+[21:26:56] [INFO] AdvJS: Completely loaded!
+[21:26:56] [INFO] AdvJS: The display location of advancement 'minecraft:story/child2' has set from (4.0, 0.75) to (3.0, 0.75)
+[21:26:56] [INFO] AdvJS: The display location of advancement 'minecraft:story/child2' has set from (3.0, 0.75) to (4.0, 1.75)
+[21:26:56] [INFO] AdvJS: The display location of advancement 'minecraft:story/deflect_arrow' has set from (5.0, 1.75) to (6.0, 2.75)
+[21:26:56] [INFO] AdvJS: The display location of advancement 'minecraft:story/obtain_armor' has set from (4.0, 1.75) to (5.0, 2.75)
+[21:26:56] [INFO] AdvJS: The display location of advancement 'spelunkery:spelunkery/every_ore' has set from (6.0, 2.75) to (7.0, 3.75)
+[21:26:56] [INFO] AdvJS: The display location of advancement 'spelunkery:spelunkery/raw_nuggets' has set from (5.0, 2.75) to (6.0, 3.75)
+[21:26:56] [INFO] AdvJS: The display location of advancement 'quark:retreive_flamerang' has set from (9.0, 2.0) to (10.0, 3.0)
+[21:26:56] [INFO] AdvJS: The display location of advancement 'quark:throw_pickarang' has set from (8.0, 2.0) to (9.0, 3.0)
+[21:26:56] [INFO] AdvJS: The display location of advancement 'spelunkery:spelunkery/true_north' has set from (10.0, 3.0) to (11.0, 4.0)
+[21:26:56] [INFO] AdvJS: The display location of advancement 'spelunkery:spelunkery/magnetic_compass' has set from (9.0, 3.0) to (10.0, 4.0)
+[21:26:56] [INFO] AdvJS: The display location of advancement 'spelunkery:spelunkery/item_magnet' has set from (9.0, 4.0) to (10.0, 5.0)
+[21:26:56] [INFO] AdvJS: The display location of advancement 'spelunkery:spelunkery/magnetite' has set from (8.0, 3.5) to (9.0, 4.5)
+[21:26:56] [INFO] AdvJS: The display location of advancement 'minecraft:story/shiny_gear' has set from (8.0, 4.5) to (9.0, 5.5)
+[21:26:56] [INFO] AdvJS: The display location of advancement 'quark:wear_full_rainbow' has set from (10.0, 5.0) to (11.0, 6.0)
+[21:26:56] [INFO] AdvJS: The display location of advancement 'quark:apply_color_rune' has set from (9.0, 5.0) to (10.0, 6.0)
+[21:26:56] [INFO] AdvJS: The display location of advancement 'quark:instamine_deepslate' has set from (10.0, 6.0) to (11.0, 7.0)
+[21:26:56] [INFO] AdvJS: The display location of advancement 'quark:overlevel_enchant' has set from (9.0, 6.0) to (10.0, 7.0)
+[21:26:56] [INFO] AdvJS: The display location of advancement 'minecraft:story/enchant_item' has set from (8.0, 5.5) to (9.0, 6.5)
+[21:26:56] [INFO] AdvJS: The display location of advancement 'minecraft:story/mine_diamond' has set from (7.0, 3.75) to (8.0, 4.75)
+[21:26:56] [INFO] AdvJS: The display location of advancement 'spelunkery:spelunkery/diamond_grindstone' has set from (6.0, 3.75) to (7.0, 4.75)
+[21:26:56] [INFO] AdvJS: The display location of advancement 'spelunkery:spelunkery/rough_diamond' has set from (5.0, 3.75) to (6.0, 4.75)
+[21:26:56] [INFO] AdvJS: The display location of advancement 'spelunkery:spelunkery/carved_nephrite' has set from (6.0, 4.75) to (7.0, 5.75)
+[21:26:56] [INFO] AdvJS: The display location of advancement 'spelunkery:spelunkery/nephrite_chunk' has set from (5.0, 4.75) to (6.0, 5.75)
+[21:26:56] [INFO] AdvJS: The display location of advancement 'spelunkery:spelunkery/grindstone' has set from (6.0, 5.75) to (7.0, 6.75)
+[21:26:56] [INFO] AdvJS: The display location of advancement 'spelunkery:spelunkery/rough_gem' has set from (5.0, 5.75) to (6.0, 6.75)
+[21:26:56] [INFO] AdvJS: The display location of advancement 'minecraft:story/iron_tools' has set from (4.0, 4.25) to (5.0, 5.25)
+[21:26:56] [INFO] AdvJS: The display location of advancement 'quark:get_all_corundum' has set from (4.0, 5.25) to (5.0, 6.25)
+[21:26:56] [INFO] AdvJS: The display location of advancement 'minecraft:story/smelt_iron' has set from (3.0, 3.0) to (4.0, 4.0)
+[21:26:58] [INFO] Server resource reload complete!

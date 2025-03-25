@@ -1,0 +1,17 @@
+filename = 'ItemLocks-Forge-1.20.1-1.3.8.jar'
+name = 'ItemLocks'
+side = 'client'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'ItemLocks-Forge-1.20.1-1.3.8.jar'
+
+[download]
+hash = '5c8e526ba5d82d26db2de0183e7d62b6c02a6702'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5148656
+project-id = 304487

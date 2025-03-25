@@ -1,0 +1,107 @@
+{
+  "plenty_of_golems:not_enough_golem_ad": {
+    "criteria": {
+      "not_enough_golem_ad_0": "2025-03-24 13:12:41 +0500"
+    },
+    "done": true
+  },
+  "hexcasting:grant_patchi_book": {
+    "criteria": {
+      "tick": "2025-03-24 13:12:48 +0500"
+    },
+    "done": true
+  },
+  "hexcasting:root": {
+    "criteria": {
+      "has_charged_amethyst": "2025-03-24 13:13:44 +0500"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2025-03-24 13:12:48 +0500"
+    },
+    "done": true
+  },
+  "hexcasting:creative_unlocker": {
+    "criteria": {
+      "has_creative_unlocker": "2025-03-24 13:13:44 +0500"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2025-03-24 13:12:41 +0500"
+    },
+    "done": true
+  },
+  "yungscavebiomes:root": {
+    "criteria": {
+      "always": "2025-03-24 13:12:48 +0500"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2025-03-24 13:12:41 +0500"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:game_stage_normal": {
+    "criteria": {
+      "is_triggered": "2025-03-24 13:12:41 +0500"
+    },
+    "done": true
+  },
+  "simplyswords:grant_book_on_first_join": {
+    "criteria": {
+      "tick": "2025-03-24 13:12:48 +0500"
+    },
+    "done": true
+  },
+  "mowziesmobs:root": {
+    "criteria": {
+      "custom_test_name": "2025-03-24 13:12:48 +0500"
+    },
+    "done": true
+  },
+  "lootr:root": {
+    "criteria": {
+      "always_true": "2025-03-24 13:12:48 +0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:beach": "2025-03-24 13:12:59 +0500",
+      "minecraft:sparse_jungle": "2025-03-24 13:12:50 +0500",
+      "minecraft:plains": "2025-03-24 13:13:37 +0500"
+    },
+    "done": false
+  },
+  "parcool:grant_parcool_guide": {
+    "criteria": {
+      "tick": "2025-03-24 13:12:48 +0500"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:bornin_chaos": {
+    "criteria": {
+      "bornin_chaos_0": "2025-03-24 13:12:48 +0500"
+    },
+    "done": true
+  },
+  "cataclysm:root": {
+    "criteria": {
+      "custom_test_name": "2025-03-24 13:12:48 +0500"
+    },
+    "done": true
+  },
+  "irons_spellbooks:grant_patchouli": {
+    "criteria": {
+      "tick": "2025-03-24 13:12:48 +0500"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}

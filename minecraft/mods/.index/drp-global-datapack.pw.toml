@@ -1,0 +1,17 @@
+filename = 'global_packs-forge-1.19.4-1.16.2_forge.jar'
+name = 'Global Packs'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19.3', '1.19.4', '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Global Packs - Forge - 1.19.4 - v1.16.2'
+
+[download]
+hash = '89e65a136c646e168060c3a7cf9a314487ed0f4f'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4573646
+project-id = 317134

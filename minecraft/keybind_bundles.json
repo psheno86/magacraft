@@ -1,0 +1,58 @@
+[
+  {
+    "id": "1df5f71f-1917-4dc3-8cf8-930f0def3040",
+    "name": "Настройки коммуникации",
+    "entries": [
+      {
+        "key": "key.socialInteractions",
+        "title": "Экран социальных взаимодействий"
+      },
+      {
+        "key": "key.smoothCamera",
+        "title": "Кинематографическая камера"
+      },
+      {
+        "key": "key.spectatorOutlines",
+        "title": "Подсветка игроков (наблюдение)"
+      },
+      {
+        "key": "key.ftbteams.open_gui",
+        "title": "Open Teams GUI"
+      },
+      {
+        "key": "key.wildfire_gender.gender_menu",
+        "title": "Female Gender Menu"
+      },
+      {
+        "key": "key.voice_chat_settings",
+        "title": "Настройки голосового чата"
+      }
+    ]
+  },
+  {
+    "id": "00c39d5e-fa6c-4cab-abad-8f4707491afb",
+    "name": "Config for Mods",
+    "entries": [
+      {
+        "key": "key.paraglider.paragliderSettings",
+        "title": "Paraglider Settings"
+      },
+      {
+        "key": "key.configured.open_mod_list",
+        "title": "Open Mod List"
+      },
+      {
+        "key": "key.do_a_barrel_roll.open_config",
+        "title": "Open Config"
+      },
+      {
+        "key": "key.modernfix.config",
+        "title": "Открыть экран настройки"
+      },
+      {
+        "key": "key.stellarview.open_config_screen",
+        "title": "Open Config Screen"
+      }
+    ]
+  }
+]

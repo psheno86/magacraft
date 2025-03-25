@@ -1,0 +1,17 @@
+filename = 'trade-cycling-forge-1.20.1-1.0.17.jar'
+name = 'Trade Cycling'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '[FORGE][1.20.1] Trade Cycling 1.20.1-1.0.17'
+
+[download]
+hash = 'd5a845201906f1c0af38a374ab6501025c41647d'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6209007
+project-id = 570431

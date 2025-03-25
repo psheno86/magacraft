@@ -1,0 +1,17 @@
+filename = 'Stellar View-1.20.1-0.4.5.jar'
+name = 'Stellar View'
+side = 'client'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '0.4.5'
+
+[download]
+hash = 'd3fad8d2cdabc20c6fc5693bcbe590480250bee8cbaad60dc26bf94941616e5d8fdcdcdcd18bd054b8ef58f4cf1f517747cefbbe6c6ba85518a3dc0bd8471d1d'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Iairjv0A/versions/7yt0gjva/Stellar View-1.20.1-0.4.5.jar'
+
+[update.modrinth]
+mod-id = 'Iairjv0A'
+version = '7yt0gjva'

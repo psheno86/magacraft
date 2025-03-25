@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "df3458acb46c3568bec3a5171a55770d"
+	name: "mgstx#df3458ac"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

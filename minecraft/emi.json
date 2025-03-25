@@ -1,0 +1,53 @@
+{
+  "favorites": [],
+  "lookup_history": [
+    "item:born_in_chaos_v1:supreme_measure",
+    "item:ftbquests:loot_crate_opener",
+    "item:ftbquests:book",
+    "item:ftbquests:task_screen_configurator",
+    "item:ftbquests:screen_1",
+    {
+      "type": "item",
+      "id": "ftbquests:screen_7",
+      "amount": 64
+    },
+    "item:paraglider:deku_leaf",
+    "item:paraglider:paraglider",
+    "item:tetra:modular_sword{Damage:4,HideFlags:1,honing_progress:301,id:\"0ef8d4db-b07f-4fce-9fd6-a74ea01bb01b\",\"sword/basic_hilt_material\":\"basic_hilt/stick\",\"sword/blade\":\"sword/heavy_blade\",\"sword/blade/settle_progress\":1281,\"sword/decorative_pommel_material\":\"decorative_pommel/iron\",\"sword/guard\":\"sword/makeshift_guard\",\"sword/heavy_blade_material\":\"heavy_blade/netherite\",\"sword/hilt\":\"sword/basic_hilt\",\"sword/hilt/settle_progress\":276,\"sword/makeshift_guard_material\":\"makeshift_guard/iron\",\"sword/pommel\":\"sword/decorative_pommel\"}",
+    "item:tetra:modular_double{Damage:0,\"double/basic_hammer_left_material\":\"basic_hammer/blackstone\",\"double/basic_hammer_right_material\":\"basic_hammer/blackstone\",\"double/basic_handle_material\":\"basic_handle/spruce\",\"double/handle\":\"double/basic_handle\",\"double/head_left\":\"double/basic_hammer_left\",\"double/head_right\":\"double/basic_hammer_right\",id:\"73a30e8e-87cb-4dfe-b8b9-1974a915f27b\"}",
+    {
+      "type": "item",
+      "id": "immersive_weathering:moss_clump",
+      "amount": 6
+    },
+    {
+      "type": "item",
+      "id": "labels:label",
+      "amount": 2
+    },
+    "item:patchouli:guide_book{\"patchouli:book\":\"simplyswords:runic_grimoire\"}",
+    "item:eccentrictome:tome{\"eccentrictome:mods\":{}}",
+    "item:quark:shale",
+    "item:spelunkery:diorite_coal_ore",
+    "item:spelunkery:rock_salt",
+    "item:spelunkery:salt",
+    "item:spelunkery:rock_salt_block",
+    "item:minecraft:firework_rocket{Fireworks:{Flight:3b}}",
+    "item:burnt:sulphur_block",
+    "item:tetra:pristine_diamond",
+    "item:cataclysm:burning_ashes",
+    "item:cataclysm:dying_ember",
+    "item:born_in_chaos_v1:pieceofdarkmetal",
+    "item:born_in_chaos_v1:phantom_powder",
+    "item:minecraft:golden_pickaxe{Damage:0}",
+    "item:exposure:developed_black_and_white_film"
+  ],
+  "craft_history": [],
+  "recipe_defaults": {
+    "added": [],
+    "tags": {},
+    "resolutions": {},
+    "disabled": []
+  },
+  "hidden_stacks": []
+}

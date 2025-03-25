@@ -1,0 +1,17 @@
+filename = 'betterparagliders-0.6.0-1.20.1.jar'
+name = 'Better Paragliders'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'betterparagliders-0.6.0-1.20.1.jar'
+
+[download]
+hash = '7355858dc488ce7b646deff0c9f2ff8f1706fcda'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5805065
+project-id = 895261

@@ -1,0 +1,17 @@
+filename = 'keybindbundles-1.20.1-1.0.0.jar'
+name = 'KeyBind Bundles'
+side = 'client'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'keybindbundles-1.20.1-1.0.0.jar'
+
+[download]
+hash = '979ae085a0fe75f90222a6e063d98ac9aa37cbf1'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6122719
+project-id = 1172594

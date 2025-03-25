@@ -1,0 +1,17 @@
+filename = 'teamstages-1.20.1-1.1.0.jar'
+name = 'Team Stages'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Team Stages 1.1.0 for 1.20.1'
+
+[download]
+hash = '9ff576afbf798de55bf88851750dda7c43022371'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6203474
+project-id = 1196018
