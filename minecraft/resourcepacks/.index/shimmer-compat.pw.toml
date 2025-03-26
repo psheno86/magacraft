@@ -1,0 +1,17 @@
+filename = 'ShimmerCompat.zip'
+name = 'Shimmer Compat'
+side = 'both'
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'ShimmerCompat.zip'
+
+[download]
+hash = '1a04b46623d8a2ebd886452cefea6a7ce34a0ab6'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5046342
+project-id = 964348

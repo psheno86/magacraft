@@ -1,6 +1,224 @@
 {
-  "favorites": [],
+  "favorites": [
+    {
+      "stack": {
+        "type": "item",
+        "id": "minecraft:torch",
+        "amount": 56
+      }
+    },
+    {
+      "stack": {
+        "type": "item",
+        "id": "spelunkery:mushgloom",
+        "amount": 3
+      }
+    },
+    {
+      "stack": {
+        "type": "item",
+        "id": "born_in_chaos_v1:pieceofdarkmetal",
+        "amount": 7
+      }
+    },
+    {
+      "stack": "item:quark:diamond_heart"
+    },
+    {
+      "stack": {
+        "type": "item",
+        "id": "minecraft:oak_planks",
+        "amount": 47
+      }
+    },
+    {
+      "stack": {
+        "type": "item",
+        "id": "spelunkery:glowstick",
+        "amount": 64
+      }
+    },
+    {
+      "stack": {
+        "type": "item",
+        "id": "minecraft:golden_carrot",
+        "amount": 63
+      }
+    },
+    {
+      "stack": {
+        "type": "item",
+        "id": "farmersdelight:chicken_sandwich",
+        "amount": 59
+      }
+    },
+    {
+      "stack": "item:simplyswords:iron_rapier{Damage:0}"
+    }
+  ],
   "lookup_history": [
+    "item:quark:ancient_fence",
+    "item:quark:vertical_spruce_planks",
+    {
+      "type": "item",
+      "id": "quark:red_crystal_lamp",
+      "amount": 64
+    },
+    "item:spelunkery:nephrite",
+    "item:spelunkery:nephrite_chunk",
+    "item:spelunkery:polished_nephrite",
+    "item:spelunkery:carved_nephrite",
+    "item:spelunkery:portal_fluid_bottle{}",
+    {
+      "type": "item",
+      "id": "bosses_of_mass_destruction:void_thorn",
+      "amount": 2
+    },
+    "item:irons_spellbooks:blank_rune",
+    "item:irons_spellbooks:fire_upgrade_orb",
+    "item:irons_spellbooks:fire_rune",
+    "#item:irons_spellbooks:inscribed_rune",
+    "item:tetra:scroll_rolled{BlockEntityTag:{data:[{glyphs:[I;4,1,0,5],intricate:0b,key:\"sword/throwing_knife\",material:1,ribbon:\"b8ced9\",schematics:[\"tetra:sword/throwing_knife\"]}]}}",
+    "item:irons_spellbooks:magic_cloth",
+    "item:forbidden_arcanus:darkstone",
+    "item:spelunkery:inkcap_mushroom",
+    "item:tetra:modular_double{Damage:0,\"double/basic_hammer_left_material\":\"basic_hammer/obsidian\",\"double/basic_hammer_right_material\":\"basic_hammer/obsidian\",\"double/basic_handle_material\":\"basic_handle/iron\",\"double/handle\":\"double/basic_handle\",\"double/handle/settle_progress\":291,\"double/head_left\":\"double/basic_hammer_left\",\"double/head_left/settle_progress\":409,\"double/head_right\":\"double/basic_hammer_right\",\"double/head_right/settle_progress\":409,honing_progress:570,id:\"c873c29a-ced2-4c11-b719-2981c6373ce2\",weapon_attributes:\u0027{\"parent\":\"bettercombat:hammer\",\"attributes\":{\"attack_range\":3.0,\"pose\":\"bettercombat:pose_two_handed_heavy\",\"two_handed\":true,\"category\":\"hammer\",\"attacks\":[{\"hitbox\":\"FORWARD_BOX\",\"damage_multiplier\":1.0,\"angle\":0.0,\"upswing\":0.5,\"animation\":\"bettercombat:two_handed_slam\",\"swing_sound\":{\"id\":\"bettercombat:hammer_slam\",\"volume\":1.0,\"pitch\":1.0,\"randomness\":0.1}}]}}\u0027}",
+    "item:alexsmobs:centipede_leg",
+    "item:spelunkery:raw_iron_nugget",
+    "item:minecraft:glow_ink_sac",
+    "item:spelunkery:dust_block",
+    {
+      "type": "item",
+      "id": "spelunkery:dust",
+      "amount": 3
+    },
+    {
+      "type": "item",
+      "id": "spelunkery:glowstick",
+      "amount": 2
+    },
+    "item:beansbackpacks:metal_backpack",
+    "item:spelunkery:rough_lazurite",
+    "item:minecraft:amethyst_block",
+    "item:hexcasting:charged_amethyst",
+    "item:hexcasting:staff/jungle",
+    {
+      "type": "item",
+      "id": "minecraft:amethyst_shard",
+      "amount": 2
+    },
+    "item:farmersdelight:straw",
+    "item:farmersdelight:canvas",
+    "#item:spelunkery:parachute_repair",
+    "item:spelunkery:parachute{Damage:1,active:0b,used:1b}",
+    "item:spelunkery:rope_ladder",
+    "item:spelunkery:tangle_roots",
+    "item:spelunkery:wooden_rail",
+    "item:minecraft:creeper_head",
+    {
+      "type": "item",
+      "id": "beansbackpacks:lock",
+      "amount": 64
+    },
+    "item:minecraft:decorated_pot",
+    "item:beansbackpacks:metal_backpack{backpack_id:\"gold\"}",
+    "item:beansbackpacks:backpack",
+    "item:create:honeyed_apple",
+    "item:create:pulp",
+    "item:create:cardboard",
+    "item:create:cardboard_block",
+    "item:create:packager",
+    {
+      "type": "item",
+      "id": "born_in_chaos_v1:diamond_termite_shard",
+      "amount": 5
+    },
+    {
+      "type": "item",
+      "id": "spelunkery:rough_diamond_shard",
+      "amount": 32
+    },
+    {
+      "type": "item",
+      "id": "minecraft:slime_ball",
+      "amount": 4
+    },
+    {
+      "type": "item",
+      "id": "minecraft:stick",
+      "amount": 4
+    },
+    {
+      "type": "item",
+      "id": "spelunkery:rough_cinnabar_shard",
+      "amount": 6
+    },
+    "item:born_in_chaos_v1:monster_skin",
+    "item:born_in_chaos_v1:gnawed_bones",
+    "item:born_in_chaos_v1:fused_bone",
+    "item:born_in_chaos_v1:bone_heart",
+    "item:forbidden_arcanus:lens_of_veritatis",
+    "item:minecraft:iron_helmet{Damage:0}",
+    "item:alexsmobs:animal_dictionary",
+    {
+      "type": "item",
+      "id": "born_in_chaos_v1:spiritual_dust",
+      "amount": 6
+    },
+    {
+      "type": "item",
+      "id": "born_in_chaos_v1:ethereal_spirit",
+      "amount": 3
+    },
+    "item:forbidden_arcanus:xpetrified_orb",
+    "item:forbidden_arcanus:test_tube",
+    "item:forbidden_arcanus:rune",
+    {
+      "type": "item",
+      "id": "minecraft:torch",
+      "amount": 21
+    },
+    {
+      "type": "item",
+      "id": "spelunkery:rough_diamond",
+      "amount": 3
+    },
+    "item:spelunkery:white_inkcap_mushroom",
+    {
+      "type": "item",
+      "id": "forbidden_arcanus:arcane_crystal",
+      "amount": 3
+    },
+    "item:spelunkery:mushgloom",
+    "item:spelunkery:raw_magnetite_nugget",
+    "item:spelunkery:raw_magnetite",
+    {
+      "type": "item",
+      "id": "minecraft:iron_ingot",
+      "amount": 2
+    },
+    {
+      "type": "item",
+      "id": "minecraft:coal",
+      "amount": 3
+    },
+    {
+      "type": "item",
+      "id": "minecraft:raw_iron",
+      "amount": 6
+    },
+    "item:thinair:respirator{Damage:0}",
+    {
+      "type": "item",
+      "id": "born_in_chaos_v1:dark_rod",
+      "amount": 2
+    },
+    "item:minecraft:deepslate_iron_ore",
+    {
+      "type": "item",
+      "id": "minecraft:cobblestone",
+      "amount": 64
+    },
     "item:hexcasting:sub_sandwich",
     "item:born_in_chaos_v1:supreme_measure",
     "item:ftbquests:loot_crate_opener",
@@ -15,7 +233,6 @@
     "item:paraglider:deku_leaf",
     "item:paraglider:paraglider",
     "item:tetra:modular_sword{Damage:4,HideFlags:1,honing_progress:301,id:\"0ef8d4db-b07f-4fce-9fd6-a74ea01bb01b\",\"sword/basic_hilt_material\":\"basic_hilt/stick\",\"sword/blade\":\"sword/heavy_blade\",\"sword/blade/settle_progress\":1281,\"sword/decorative_pommel_material\":\"decorative_pommel/iron\",\"sword/guard\":\"sword/makeshift_guard\",\"sword/heavy_blade_material\":\"heavy_blade/netherite\",\"sword/hilt\":\"sword/basic_hilt\",\"sword/hilt/settle_progress\":276,\"sword/makeshift_guard_material\":\"makeshift_guard/iron\",\"sword/pommel\":\"sword/decorative_pommel\"}",
-    "item:tetra:modular_double{Damage:0,\"double/basic_hammer_left_material\":\"basic_hammer/blackstone\",\"double/basic_hammer_right_material\":\"basic_hammer/blackstone\",\"double/basic_handle_material\":\"basic_handle/spruce\",\"double/handle\":\"double/basic_handle\",\"double/head_left\":\"double/basic_hammer_left\",\"double/head_right\":\"double/basic_hammer_right\",id:\"73a30e8e-87cb-4dfe-b8b9-1974a915f27b\"}",
     {
       "type": "item",
       "id": "immersive_weathering:moss_clump",

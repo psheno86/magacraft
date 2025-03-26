@@ -1,0 +1,29 @@
+filename = 'Alternative Rain Sounds 1.20-1.20.X.zip'
+name = 'Alternative Rain Sounds'
+side = 'both'
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [
+    '1.20',
+    '1.20-Snapshot',
+    '1.20.1',
+    '1.20.2',
+    '1.20.2-Snapshot',
+    '1.20.3',
+    '1.20.3-Snapshot',
+    '1.20.4',
+    '1.20.5',
+    '1.20.5-Snapshot',
+    '1.20.6'
+]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Alternative Rain Sounds 1.20-1.20.X (Fixed)'
+
+[download]
+hash = '7ee802d3f66a8f397d1b0cd6827af095dd2c21d5'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5808662
+project-id = 858484

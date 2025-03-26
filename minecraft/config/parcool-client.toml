@@ -1,7 +1,7 @@
 
 ["Possibility_of_Actions(Some_do_not_have_to_work)"]
 	can_BreakfallReady = true
-	can_CatLeap = true
+	can_CatLeap = false
 	can_ChargeJump = true
 	can_ClimbPoles = true
 	can_ClimbUp = true

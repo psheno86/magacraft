@@ -1,0 +1,17 @@
+filename = 'Simply Swords Whimscape v1.0 1.20-1.20.1.zip'
+name = 'Simply Swords  Whimscape add-on'
+side = 'both'
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Simply Swords Whimscape v1.0 1.20-1.20.1.zip'
+
+[download]
+hash = 'fa73dbd669d035f1db85a2230baf34979cdd173a'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5830707
+project-id = 1124089

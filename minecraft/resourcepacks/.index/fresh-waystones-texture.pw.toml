@@ -1,0 +1,17 @@
+filename = 'waystones_1.21.4.zip'
+name = 'Fresh Waystones Texture'
+side = 'both'
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.21.4' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'waystones_1.21.4.zip'
+
+[download]
+hash = '93abdfefe82fa30f7fe4114e5193d64f0dc23397'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6139232
+project-id = 860903

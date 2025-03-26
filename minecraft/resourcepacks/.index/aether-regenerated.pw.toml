@@ -1,0 +1,17 @@
+filename = 'Aether Regenerated v1.2.1.zip'
+name = 'Aether: Regenerated'
+side = 'both'
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.19.2', '1.20.1', '1.20.2', '1.20.4' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Aether Regenerated v1.2.1'
+
+[download]
+hash = '25af52b1436a90daaeacccc13cfcca7ec1450669'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5298350
+project-id = 864002

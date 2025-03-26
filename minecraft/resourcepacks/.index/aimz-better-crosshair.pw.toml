@@ -1,0 +1,30 @@
+filename = 'Aimz - Better Crosshair.zip'
+name = 'Aimz - Better Crosshair'
+side = 'both'
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [
+    '1.20.2',
+    '1.20.3',
+    '1.20.4',
+    '1.20.5',
+    '1.20.5-Snapshot',
+    '1.20.6',
+    '1.21',
+    '1.21.1',
+    '1.21.2',
+    '1.21.3',
+    '1.21.4',
+    '1.21.5'
+]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Aimz - Better Crosshair.zip'
+
+[download]
+hash = '75351bf372e1751e7f589e6f352a67669f166a85'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4765138
+project-id = 859798

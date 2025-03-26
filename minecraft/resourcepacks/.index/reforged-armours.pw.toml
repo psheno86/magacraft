@@ -1,0 +1,17 @@
+filename = '§5§lReforged-Armours_1.0.zip'
+name = 'Reforged Armours'
+side = 'both'
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.21.4', '1.21.4-Snapshot', '1.21.5-Snapshot' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Reforged-Armours_1.0.zip'
+
+[download]
+hash = '7e74f8933578d2b7c578569cc3da7826c6b8f1fd'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6252300
+project-id = 1210897

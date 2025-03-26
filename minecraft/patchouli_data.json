@@ -23,7 +23,10 @@
         "parcool:actions/breakfall",
         "parcool:others/energy_drink",
         "parcool:others/passive_actions",
-        "parcool:actions/charge_jump"
+        "parcool:actions/charge_jump",
+        "parcool:actions/dive",
+        "parcool:actions/slide",
+        "parcool:actions/catleap"
       ],
       "bookmarks": [],
       "completedManualQuests": []

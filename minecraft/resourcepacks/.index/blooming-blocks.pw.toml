@@ -1,0 +1,17 @@
+filename = 'Blooming Blocks 1.19.2-2.2.zip'
+name = 'Blooming Blocks'
+side = 'both'
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Blooming Blocks 1.19.2-2.2.zip'
+
+[download]
+hash = '8c4ad5efc4fdeac2bb791a36b980a0b7ba9d7041'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4533137
+project-id = 637124

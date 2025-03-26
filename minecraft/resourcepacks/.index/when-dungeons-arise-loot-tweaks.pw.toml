@@ -1,0 +1,17 @@
+filename = 'WhenDungeonsArise-LootTweaks-1.21.1-2.1.64.zip'
+name = 'When Dungeons Arise - Loot Tweaks'
+side = 'both'
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1', '1.21.2', '1.21.3', '1.21.4' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'WhenDungeonsArise-LootTweaks-1.21.1-2.1.64.zip'
+
+[download]
+hash = '199f74da9d4d042a10a568b66ff7a1dcde8f57a5'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6088791
+project-id = 853631
